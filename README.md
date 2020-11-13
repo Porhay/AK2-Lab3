@@ -1,7 +1,5 @@
 # AK2-Lab3
 
-# Lab3_AK
-
 Key list:
 
 1. help - '-h' or '--help' - no arguments
