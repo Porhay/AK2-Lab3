@@ -14,6 +14,5 @@ Example:
 Typing `./Lab3 -h`
 
 Result:
-```
-Argument: Help
+```Argument: Help
 ```
