@@ -5,7 +5,7 @@ Key list:
 1. help - '-h' or '--help' - no arguments
 2. version - '-v' or '--version' - no arguments
 3. set - '-s' or '--set' - optional
-4. value - '-S' or '--string' - optional
+4. string - '-S' or '--string' - optional
 
 Example:
 
