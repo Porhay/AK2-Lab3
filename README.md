@@ -11,8 +11,5 @@ Key list:
 
 Example:
 
-Typing `./Lab3 -h`
-
-Result:
-```Argument: Help
-```
+`./Lab3 -h`
+`./Lab3 -s=value`
